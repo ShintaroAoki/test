@@ -1,0 +1,4 @@
+"AadClientId": "02e9e90e-0dee-4b64-8200-604d54f9af0a",
+"AadSecret": "GVA8Q~wAZ8WNfJEtO0-dzewaTDxWjNJ226wgbc43",
+"AadTenantDomain": "saoki12.onmicrosoft.com",
+"AadTenantId": "8d8ff458-8b85-43a4-b788-74af160beddf",
